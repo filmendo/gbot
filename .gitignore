@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Probot recommended ignores
+*.pem
+!mock-cert.pem
+lib
